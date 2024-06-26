@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/hand-drawn-scribble-element_23-2151274706.jpg)
+}
+
+.frame{
+  height: 300px;
+  width: 500px;
+  border:5px solid black;
+  margin: 100px;
+  padding:25px;
+  background-image: url(https://media.istockphoto.com/id/1192085978/photo/asian-arowana-scleropages-formosus-the-dragon-fish.jpg?s=2048x2048&w=is&k=20&c=ekwdN_BDg_djB8RE0sNtXeBm7VrDGKBfnWLioOUIjkY=);
+  background-size: cover;
+  color: white;
